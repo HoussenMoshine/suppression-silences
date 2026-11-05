@@ -4,3 +4,12 @@ __pycache__/
 venv/
 .env
 *.log
+
+# Sorties produites par le script
+*-sans-silences.mp4
+*-sans-silences.mkv
+.suppression-silences-corbeille/
+
+# Systèmes de fichiers
+.DS_Store
+Thumbs.db
